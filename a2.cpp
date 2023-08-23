@@ -1,26 +1,26 @@
 #include<iostream>
 using namespace std;
 int main(){
-    // //Q1
-    // int a,b
-    // cin>>a>>b;
-    // if(a==b){
-    //     cout<<"1";
-    // }
-    // else{cout<<"0";}
+    //Q1
+    int a,b
+    cin>>a>>b;
+    if(a==b){
+        cout<<"1";
+    }
+    else{cout<<"0";}
 
-    // //Q2
-    // if(a<50 && a<b){
-    //     cout<<"1";
-    // }
-    // else{cout<<"0";}
+    //Q2
+    if(a<50 && a<b){
+        cout<<"1";
+    }
+    else{cout<<"0";}
 
-    // //Q3
+    //Q3
 
 
-    // //Q4
-    // int x;
-    // cin>>x;
+    //Q4
+    int x;
+    cin>>x;
     
 
     //Q5
